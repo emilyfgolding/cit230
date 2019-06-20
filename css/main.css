@@ -11,6 +11,10 @@ body {
     color: black;
 }
 
+ul {
+    list-style-type: none;
+}
+
 h1 {
     font-family: 'Faster One', cursive;
     color: black;
